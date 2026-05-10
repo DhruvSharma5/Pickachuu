@@ -1,0 +1,2 @@
+# Pickachuu
+basic frontend skills 
